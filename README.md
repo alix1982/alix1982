@@ -12,16 +12,16 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
-<div align="center">
-  <span><img src="images/html.svg"></span>
-  <span><img src="images/css.svg"></span>
-  <span><img src="images/js.svg"></span>
-  <span><img src="images/react.svg"></span>
-  <span><img src="images/nodeJS.svg"></span>
-  <span><img src="images/express.svg"></span>
-  <span><img src="images/mangoDB.svg"></span>
-  <span><img src="images/figma.svg"></span>
-  <span><img src="images/vsCode.svg"></span>
+<div align="center" width="80%">
+  <span><img src="images/html.svg" width="130%"></span>
+  <span><img src="images/css.svg" width="130%"></span>
+  <span><img src="images/js.svg" width="130%"></span>
+  <span><img src="images/react.svg" width="130%"></span>
+  <span><img src="images/nodeJS.svg" width="130%"></span>
+  <span><img src="images/express.svg" width="130%"></span>
+  <span><img src="images/mangoDB.svg" width="130%"></span>
+  <span><img src="images/figma.svg" width="130%"></span>
+  <span><img src="images/vsCode.svg" width="130%"></span>
 </div>
 <!-- <ul>
   <li>HTML5</li>
