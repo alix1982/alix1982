@@ -13,15 +13,15 @@
 </ul>
 <h2> Мой стек:</h2>
 <div align="center" width="80%">
-  <span margin-right="50px" margin-left="15px"><img src="images/html.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/css.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/js.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/react.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/nodeJS.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/express.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/mangoDB.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/figma.svg" height="30px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/vsCode.svg" height="30px"></span>
+  <span width="150%"><img src="images/html.svg" height="30px"></span>
+  <span width="150%"><img src="images/css.svg" height="30px"></span>
+  <span width="150%"><img src="images/js.svg" height="30px"></span>
+  <span width="150%"><img src="images/react.svg" height="30px"></span>
+  <span width="150%"><img src="images/nodeJS.svg" height="30px"></span>
+  <span width="150%"><img src="images/express.svg" height="30px"></span>
+  <span width="150%"><img src="images/mangoDB.svg" height="30px"></span>
+  <span width="150%"><img src="images/figma.svg" height="30px"></span>
+  <span width="150%"><img src="images/vsCode.svg" height="30px"></span>
 </div>
 <!-- <ul>
   <li>HTML5</li>
@@ -37,10 +37,10 @@
 </ul> -->
 
 <h2>Мои контакты:</h2>
-<div align="center">
-  <a href="https://github.com/alix1982"><img src="images/gitHub.svg"></a>
-  <a href="https://web.telegram.org/z/#880062042"><img src="images/telegramm.svg"></a>
-  <a href="https://mail.yandex.ru/?uid=891167374#inbox"><img src="images/email.svg"></a>
+<div align="center" width="80%">
+  <a href="https://github.com/alix1982"><img src="images/gitHub.svg" height="30px"></a>
+  <a href="https://web.telegram.org/z/#880062042"><img src="images/telegramm.svg" height="30px"></a>
+  <a href="https://mail.yandex.ru/?uid=891167374#inbox"><img src="images/email.svg" height="30px"></a>
 </div>
 <!-- <p>Tg: @alix1982_tg;</p>
 <p>Email: alix1982@yandex.ru</p> -->
