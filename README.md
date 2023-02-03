@@ -47,7 +47,7 @@
 
 <h2>Статистика GitHub</h2>
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)(https://github.com/alix1982/github-readme-stats">
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
