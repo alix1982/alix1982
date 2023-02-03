@@ -1,5 +1,5 @@
-<h1 text-align="center"> Рад видеть!👋</h1>
-<h2 text-align="center"> Меня зовут Александр, и я профессиональный Веб-разработчик в ближайшей перспективе!</h2>
+<h1 align="center"> Рад видеть!👋</h1>
+<h2 align="center"> Меня зовут Александр, и я профессиональный Веб-разработчик в ближайшей перспективе!</h2>
 <ul>
   <li>🔭 В настоящее время я работаю над рабочим pet-проектом</li>
   <li>👯 совершенствую и закрепляю знания на новых курсах по профессии</li>
@@ -30,9 +30,11 @@
 <p>Email: alix1982@yandex.ru</p>
 
 <h2>Статистика GitHub</h2>
-<div text-align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
+<img align="center" src="https://komarev.com/ghpvc/?username=alix1982">
+<!-- <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats)
 </div>
 <div text-align="center">
 ![](https://komarev.com/ghpvc/?username=alix1982)
-</div>
+</div> -->
