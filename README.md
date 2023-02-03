@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
-<h1 align="center" font-size="30px">
-  <span><img src="images/html.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<div align="center" font-size="30px">
+  <h1><img src="images/html.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</h1>
   <span><img src="images/css.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/js.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/react.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -22,7 +22,7 @@
   <span><img src="images/mangoDB.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/figma.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/vsCode.svg" height="30px">&nbsp;</span>
-</h1>
+</div>
 <!-- <ul>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -46,9 +46,9 @@
 <p>Email: alix1982@yandex.ru</p> -->
 
 <h2>Статистика GitHub</h2>
-<div align="center">
+<code align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
-</div>
+</code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
 
