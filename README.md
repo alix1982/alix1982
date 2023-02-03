@@ -25,6 +25,7 @@
 ## Для поговорить
 Tg: @alix1982_tg; Email: alix1982@yandex.ru
 
+## Статистика GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=alix1982)
