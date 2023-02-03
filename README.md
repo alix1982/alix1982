@@ -50,8 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats) -->
 
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=alix1982">
 </div>
