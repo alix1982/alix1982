@@ -13,7 +13,7 @@
 </ul>
 <h2> Мой стек:</h2>
 <h1 align="center" font-size="30px">
-  <span><img src="images/html.svg" height="30px" vspace="40px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="images/html.svg" height="30px" vspace="150px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/css.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/js.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/react.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -47,7 +47,7 @@
 
 <h2>Статистика GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
