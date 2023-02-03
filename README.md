@@ -13,15 +13,15 @@
 </ul>
 <h2> Мой стек:</h2>
 <div align="center" width="80%">
-  <span><img src="images/html.svg" width="130%"></span>
-  <span><img src="images/css.svg" width="130%"></span>
-  <span><img src="images/js.svg" width="130%"></span>
-  <span><img src="images/react.svg" width="130%"></span>
-  <span><img src="images/nodeJS.svg" width="130%"></span>
-  <span><img src="images/express.svg" width="130%"></span>
-  <span><img src="images/mangoDB.svg" width="130%"></span>
-  <span><img src="images/figma.svg" width="130%"></span>
-  <span><img src="images/vsCode.svg" width="130%"></span>
+  <span><img src="images/html.svg" width="20%"></span>
+  <span><img src="images/css.svg" width="20%"></span>
+  <span><img src="images/js.svg" width="20%"></span>
+  <span><img src="images/react.svg" width="20%"></span>
+  <span><img src="images/nodeJS.svg" width="20%"></span>
+  <span><img src="images/express.svg" width="20%"></span>
+  <span><img src="images/mangoDB.svg" width="20%"></span>
+  <span><img src="images/figma.svg" width="20%"></span>
+  <span><img src="images/vsCode.svg" width="10%"></span>
 </div>
 <!-- <ul>
   <li>HTML5</li>
