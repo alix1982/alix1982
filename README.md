@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
-<div align="center" width="70%"  line-height="2">
-  <span><img src="images/html.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<div align="center" width="70%"  line-height="50px">
+  <span height="200%"><img src="images/html.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/css.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/js.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span><img src="images/react.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
