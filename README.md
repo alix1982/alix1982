@@ -25,4 +25,4 @@
 ## Для поговорить
 Tg: @alix1982_tg; Email: alix1982@yandex.ru
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alix1982=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats)
