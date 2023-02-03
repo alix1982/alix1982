@@ -30,11 +30,9 @@
 <p>Email: alix1982@yandex.ru</p>
 
 <h2>Статистика GitHub</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
-<img align="center" src="https://komarev.com/ghpvc/?username=alix1982">
-<!-- <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
 </div>
-<div text-align="center">
-![](https://komarev.com/ghpvc/?username=alix1982)
-</div> -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alix1982">
+</div>
