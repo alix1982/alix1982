@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
-<div align="canter">
+<div align="center">
   <span><img src="images/html.svg"></span>
   <span><img src="images/css.svg"></span>
   <span><img src="images/js.svg"></span>
@@ -21,7 +21,7 @@
   <span><img src="images/express.svg"></span>
   <span><img src="images/mangoDB.svg"></span>
   <span><img src="images/figma.svg"></span>
-  <span><img src="images/vsCose.svg"></span>
+  <span><img src="images/vsCode.svg"></span>
 </div>
 <!-- <ul>
   <li>HTML5</li>
@@ -37,10 +37,10 @@
 </ul> -->
 
 <h2>Мои контакты:</h2>
-<div align="canter">
+<div align="center">
   <a href="https://github.com/alix1982"><img src="images/gitHub.svg"></a>
-  <a href="https://web.telegram.org/z/"><img src="images/telegramm.svg"></a>
-  <a href="https://mail.yandex.ru/?uid=99367278#message/181551359978395438"><img src="images/email.svg"></a>
+  <a href="https://web.telegram.org/z/#880062042"><img src="images/telegramm.svg"></a>
+  <a href="https://mail.yandex.ru/?uid=891167374#inbox"><img src="images/email.svg"></a>
 </div>
 <!-- <p>Tg: @alix1982_tg;</p>
 <p>Email: alix1982@yandex.ru</p> -->
@@ -49,7 +49,9 @@
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/alix1982/github-readme-stats">
 </div> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=alix1982">
 </div>
