@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
+<img src="images/html.svg">
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -36,3 +37,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alix1982">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1982&layout=compact)](https://github.com/1982/github-readme-stats)
