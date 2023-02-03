@@ -13,15 +13,15 @@
 </ul>
 <h2> Мой стек:</h2>
 <div align="center" width="80%">
-  <span margin-right="15px" margin-left="15px"><img src="images/html.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/css.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/js.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/react.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/nodeJS.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/express.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/mangoDB.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/figma.svg" height="20px"></span>
-  <span margin-right="15px" margin-left="15px"><img src="images/vsCode.svg" height="20px"></span>
+  <span margin-right="50px" margin-left="15px"><img src="images/html.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/css.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/js.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/react.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/nodeJS.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/express.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/mangoDB.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/figma.svg" height="30px"></span>
+  <span margin-right="15px" margin-left="15px"><img src="images/vsCode.svg" height="30px"></span>
 </div>
 <!-- <ul>
   <li>HTML5</li>
