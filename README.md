@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... -->
 </ul>
 <h2> Мой стек:</h2>
-<h1 align="center" font-size="30px">
+<div align="center" font-size="30px">
   <span><img src="images/html.svg" height="30px" vspace="150px">&nbsp;&nbsp;</span>
   <span><img src="images/css.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/js.svg" height="30px">&nbsp;&nbsp;</span>
@@ -22,7 +22,7 @@
   <span><img src="images/mangoDB.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/figma.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/vsCode.svg" height="30px">&nbsp;</span>
-</h1>
+</div>
 <!-- <ul>
   <li>HTML5</li>
   <li>CSS3</li>
