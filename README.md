@@ -22,6 +22,9 @@
   <span><img src="images/mangoDB.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/figma.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/vsCode.svg" height="30px">&nbsp;</span>
+  <span><img src="images/rtk.svg" height="30px">&nbsp;</span>
+
+  
 </div>
 <!-- <ul>
   <li>HTML5</li>
