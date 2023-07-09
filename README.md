@@ -17,12 +17,12 @@
   <span><img src="images/css.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/js.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/react.svg" height="30px">&nbsp;&nbsp;</span>
+  <span><img src="images/rtk.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/nodeJS.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/express.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/mangoDB.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/figma.svg" height="30px">&nbsp;&nbsp;</span>
   <span><img src="images/vsCode.svg" height="30px">&nbsp;</span>
-  <span><img src="images/rtk.svg" height="30px">&nbsp;</span>
 
   
 </div>
